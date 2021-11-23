@@ -1,0 +1,8 @@
+prefix=/home/ataparlar/rover21ws/devel/.private/rover_21_description
+
+Name: rover_21_description
+Description: Description of rover_21_description
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

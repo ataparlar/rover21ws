@@ -1,0 +1,1 @@
+/home/ataparlar/rover21ws/devel/.private/rover_21_description/lib/pkgconfig/rover_21_description.pc

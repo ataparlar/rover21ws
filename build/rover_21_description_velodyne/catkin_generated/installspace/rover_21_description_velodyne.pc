@@ -1,0 +1,8 @@
+prefix=/home/ataparlar/rover21ws/install
+
+Name: rover_21_description_velodyne
+Description: Description of rover_21_description_velodyne
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

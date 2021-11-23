@@ -1,0 +1,1 @@
+/home/ataparlar/rover21ws/devel/.private/marsyard/share/marsyard/cmake/marsyardConfig-version.cmake

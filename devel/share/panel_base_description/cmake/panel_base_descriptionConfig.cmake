@@ -1,0 +1,1 @@
+/home/ataparlar/rover21ws/devel/.private/panel_base_description/share/panel_base_description/cmake/panel_base_descriptionConfig.cmake
