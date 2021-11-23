@@ -1,0 +1,5 @@
+Simulations/rover_21_robotic_arm/arm_control
+/home/ataparlar/rover21ws/devel/.private/arm_control/cmake.lock /home/ataparlar/rover21ws/devel/./cmake.lock
+/home/ataparlar/rover21ws/devel/.private/arm_control/share/arm_control/cmake/arm_controlConfig-version.cmake /home/ataparlar/rover21ws/devel/share/arm_control/cmake/arm_controlConfig-version.cmake
+/home/ataparlar/rover21ws/devel/.private/arm_control/share/arm_control/cmake/arm_controlConfig.cmake /home/ataparlar/rover21ws/devel/share/arm_control/cmake/arm_controlConfig.cmake
+/home/ataparlar/rover21ws/devel/.private/arm_control/lib/pkgconfig/arm_control.pc /home/ataparlar/rover21ws/devel/lib/pkgconfig/arm_control.pc
